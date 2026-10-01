@@ -1,0 +1,22 @@
+# MongoDB collections
+
+- `ohe_masts_down` — 1099 seed records
+- `ohe_masts_up` — 1096 seed records
+- `stations` — 30 seed records
+- `curves_ulc` — 79 seed records
+- `curves_dlc` — 76 seed records
+- `points` — 59 seed records
+- `station_meta` — 30 seed records
+- `rail_replacements` — 0 seed records
+- `curve_reversals` — 0 seed records
+- `gmt_main` — 0 seed records
+- `section_commissions` — 0 seed records
+- `crossing_replacements` — 0 seed records
+- `switch_replacements` — 0 seed records
+- `at_welds` — 0 seed records
+- `station_platforms` — 58 seed records
+- `sections_master` — 30 seed records
+- `extra_columns` — 0 seed records
+- `app_settings` — 3 seed records
+- `users` — 0 seed records
+- `sessions` — 0 seed records

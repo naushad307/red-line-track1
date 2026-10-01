@@ -1,0 +1,582 @@
+[
+  {
+    "station": "NBAA",
+    "line": "DN",
+    "oheMastFrom": "12E/30",
+    "oheMastTo": "12E/22",
+    "chFrom": -12592.09,
+    "chTo": -12407.09,
+    "length": 185.0,
+    "centreChainage": -12499.59
+  },
+  {
+    "station": "NBAA",
+    "line": "UP",
+    "oheMastFrom": "12E/29",
+    "oheMastTo": "12E/21",
+    "chFrom": -12594.609,
+    "chTo": -12409.609,
+    "length": 185.0,
+    "centreChainage": -12502.109
+  },
+  {
+    "station": "HDNR",
+    "line": "DN",
+    "oheMastFrom": "11E/34",
+    "oheMastTo": "11E/12",
+    "chFrom": -11651.426,
+    "chTo": -11466.426,
+    "length": 185.0,
+    "centreChainage": -11558.926
+  },
+  {
+    "station": "HDNR",
+    "line": "UP",
+    "oheMastFrom": "11E/33",
+    "oheMastTo": "11E/11",
+    "chFrom": -11653.606,
+    "chTo": -11468.606,
+    "length": 185.0,
+    "centreChainage": -11561.106
+  },
+  {
+    "station": "ATHA",
+    "line": "DN",
+    "oheMastFrom": "10E/08",
+    "oheMastTo": "9E/54",
+    "chFrom": -10161.697,
+    "chTo": -9976.697,
+    "length": 185.0,
+    "centreChainage": -10069.197
+  },
+  {
+    "station": "ATHA",
+    "line": "UP",
+    "oheMastFrom": "10E/07",
+    "oheMastTo": "9E/53",
+    "chFrom": -10163.675,
+    "chTo": -9978.675,
+    "length": 185.0,
+    "centreChainage": -10071.175
+  },
+  {
+    "station": "MNGN",
+    "line": "DN",
+    "oheMastFrom": "9E/22",
+    "oheMastTo": "9E/10",
+    "chFrom": -9369.756,
+    "chTo": -9184.756,
+    "length": 185.0,
+    "centreChainage": -9277.256
+  },
+  {
+    "station": "MNGN",
+    "line": "UP",
+    "oheMastFrom": "9E/21",
+    "oheMastTo": "9E/09",
+    "chFrom": -9370.548,
+    "chTo": -9185.548,
+    "length": 185.0,
+    "centreChainage": -9278.048
+  },
+  {
+    "station": "SMPK",
+    "line": "DN",
+    "oheMastFrom": "8E/04",
+    "oheMastTo": "7E/38",
+    "chFrom": -8049.892,
+    "chTo": -7864.892,
+    "length": 185.0,
+    "centreChainage": -7957.392
+  },
+  {
+    "station": "SMPK",
+    "line": "UP",
+    "oheMastFrom": "8E/03",
+    "oheMastTo": "7E/37",
+    "chFrom": -8050.134,
+    "chTo": -7865.134,
+    "length": 185.0,
+    "centreChainage": -7957.634
+  },
+  {
+    "station": "RJMN",
+    "line": "DN",
+    "oheMastFrom": "6E/42",
+    "oheMastTo": "6E/30",
+    "chFrom": -6850.059,
+    "chTo": -6665.059,
+    "length": 185.0,
+    "centreChainage": -6757.559
+  },
+  {
+    "station": "RJMN",
+    "line": "UP",
+    "oheMastFrom": "6E/41",
+    "oheMastTo": "6E/29",
+    "chFrom": -6850.257,
+    "chTo": -6665.257,
+    "length": 185.0,
+    "centreChainage": -6757.757
+  },
+  {
+    "station": "RJBH",
+    "line": "DN",
+    "oheMastFrom": "5E/40",
+    "oheMastTo": "5E/28",
+    "chFrom": -5719.895,
+    "chTo": -5534.895,
+    "length": 185.0,
+    "centreChainage": -5627.395
+  },
+  {
+    "station": "RJBH",
+    "line": "UP",
+    "oheMastFrom": "5E/39",
+    "oheMastTo": "5E/27",
+    "chFrom": -5720.163,
+    "chTo": -5535.163,
+    "length": 185.0,
+    "centreChainage": -5627.663
+  },
+  {
+    "station": "SHDN",
+    "line": "DN",
+    "oheMastFrom": "4E/26",
+    "oheMastTo": "4E/14",
+    "chFrom": -4452.328,
+    "chTo": -4267.328,
+    "length": 185.0,
+    "centreChainage": -4359.828
+  },
+  {
+    "station": "SHDN",
+    "line": "UP",
+    "oheMastFrom": "4E/25",
+    "oheMastTo": "4E/13",
+    "chFrom": -4452.672,
+    "chTo": -4267.672,
+    "length": 185.0,
+    "centreChainage": -4360.172
+  },
+  {
+    "station": "DSG",
+    "line": "DN",
+    "oheMastFrom": "3E/14",
+    "oheMastTo": "3E/04",
+    "chFrom": -3227.576,
+    "chTo": -3042.576,
+    "length": 185.0,
+    "centreChainage": -3135.076
+  },
+  {
+    "station": "DSG",
+    "line": "UP",
+    "oheMastFrom": "3E/13",
+    "oheMastTo": "3E/03",
+    "chFrom": -3227.576,
+    "chTo": -3042.576,
+    "length": 185.0,
+    "centreChainage": -3135.076
+  },
+  {
+    "station": "JILMIL",
+    "line": "DN",
+    "oheMastFrom": "2E/20",
+    "oheMastTo": "2E/10",
+    "chFrom": -2345.574,
+    "chTo": -2160.574,
+    "length": 185.0,
+    "centreChainage": -2253.074
+  },
+  {
+    "station": "JILMIL",
+    "line": "UP",
+    "oheMastFrom": "2E/19",
+    "oheMastTo": "2E/09",
+    "chFrom": -2345.574,
+    "chTo": -2160.574,
+    "length": 185.0,
+    "centreChainage": -2253.074
+  },
+  {
+    "station": "MPK",
+    "line": "DN",
+    "oheMastFrom": "1E/16",
+    "oheMastTo": "1E/06",
+    "chFrom": -1220.308,
+    "chTo": -1031.308,
+    "length": 189.0,
+    "centreChainage": -1125.808
+  },
+  {
+    "station": "MPK",
+    "line": "UP",
+    "oheMastFrom": "1E/15",
+    "oheMastTo": "1E/05",
+    "chFrom": -1220.308,
+    "chTo": -1031.308,
+    "length": 189.0,
+    "centreChainage": -1125.808
+  },
+  {
+    "station": "SHD",
+    "line": "DN",
+    "oheMastFrom": "-0/12",
+    "oheMastTo": "0/12",
+    "chFrom": -100.5,
+    "chTo": 100.5,
+    "length": 201.0,
+    "centreChainage": 0.0
+  },
+  {
+    "station": "SHD",
+    "line": "UP",
+    "oheMastFrom": "-0/11",
+    "oheMastTo": "0/11",
+    "chFrom": -100.5,
+    "chTo": 100.5,
+    "length": 201.0,
+    "centreChainage": 0.0
+  },
+  {
+    "station": "WC",
+    "line": "DN",
+    "oheMastFrom": "01/8",
+    "oheMastTo": "*01/18",
+    "chFrom": 1096.17,
+    "chTo": 1290.17,
+    "length": 194.0,
+    "centreChainage": 1193.17
+  },
+  {
+    "station": "WC",
+    "line": "UP",
+    "oheMastFrom": "01/7",
+    "oheMastTo": "*01/17",
+    "chFrom": 1096.17,
+    "chTo": 1290.17,
+    "length": 194.0,
+    "centreChainage": 1193.17
+  },
+  {
+    "station": "SLAP",
+    "line": "DN",
+    "oheMastFrom": "*02/12",
+    "oheMastTo": "*02/22",
+    "chFrom": 2179.95,
+    "chTo": 2383.95,
+    "length": 204.0,
+    "centreChainage": 2281.95
+  },
+  {
+    "station": "SLAP",
+    "line": "UP",
+    "oheMastFrom": "*02/11",
+    "oheMastTo": "*02/21",
+    "chFrom": 2179.95,
+    "chTo": 2383.95,
+    "length": 204.0,
+    "centreChainage": 2281.95
+  },
+  {
+    "station": "SHPK",
+    "line": "DN",
+    "oheMastFrom": "*03/50",
+    "oheMastTo": "*04/10",
+    "chFrom": 3852.71,
+    "chTo": 4061.26,
+    "length": 208.55,
+    "centreChainage": 3954.26
+  },
+  {
+    "station": "SHPK",
+    "line": "UP",
+    "oheMastFrom": "03/49",
+    "oheMastTo": "*04/09",
+    "chFrom": 3852.71,
+    "chTo": 4061.26,
+    "length": 208.55,
+    "centreChainage": 3954.26
+  },
+  {
+    "station": "KG",
+    "line": "DN",
+    "oheMastFrom": "*06/18",
+    "oheMastTo": "*06/36",
+    "chFrom": 6188.598,
+    "chTo": 6392.598,
+    "length": 204.0,
+    "centreChainage": 6290.598
+  },
+  {
+    "station": "KG",
+    "line": "UP",
+    "oheMastFrom": "*06/17",
+    "oheMastTo": "*06/35",
+    "chFrom": 6188.598,
+    "chTo": 6392.598,
+    "length": 204.0,
+    "centreChainage": 6290.598
+  },
+  {
+    "station": "TZI",
+    "line": "DN",
+    "oheMastFrom": "*07/28",
+    "oheMastTo": "*07/40",
+    "chFrom": 7354.507,
+    "chTo": 7545.507,
+    "length": 191.0,
+    "centreChainage": 7450.007
+  },
+  {
+    "station": "TZI",
+    "line": "UP",
+    "oheMastFrom": "*07/27",
+    "oheMastTo": "*07/39",
+    "chFrom": 7354.507,
+    "chTo": 7545.507,
+    "length": 191.0,
+    "centreChainage": 7450.007
+  },
+  {
+    "station": "PBGH",
+    "line": "DN",
+    "oheMastFrom": "*08/24",
+    "oheMastTo": "*08/38",
+    "chFrom": 8316.768,
+    "chTo": 8501.768,
+    "length": 185.0,
+    "centreChainage": 8409.268
+  },
+  {
+    "station": "PBGH",
+    "line": "UP",
+    "oheMastFrom": "*08/23",
+    "oheMastTo": "*08/37",
+    "chFrom": 8316.768,
+    "chTo": 8501.768,
+    "length": 185.0,
+    "centreChainage": 8409.268
+  },
+  {
+    "station": "PTP",
+    "line": "DN",
+    "oheMastFrom": "*09/12",
+    "oheMastTo": "*09/24",
+    "chFrom": 9155.826,
+    "chTo": 9340.826,
+    "length": 185.0,
+    "centreChainage": 9248.326
+  },
+  {
+    "station": "PTP",
+    "line": "UP",
+    "oheMastFrom": "*09/11",
+    "oheMastTo": "*09/23",
+    "chFrom": 9155.826,
+    "chTo": 9340.826,
+    "length": 185.0,
+    "centreChainage": 9248.326
+  },
+  {
+    "station": "SHT",
+    "line": "DN",
+    "oheMastFrom": "*10/62",
+    "oheMastTo": "*11/06",
+    "chFrom": 10891.916,
+    "chTo": 11081.916,
+    "length": 190.0,
+    "centreChainage": 10986.916
+  },
+  {
+    "station": "SHT",
+    "line": "UP",
+    "oheMastFrom": "*10/61",
+    "oheMastTo": "*11/05",
+    "chFrom": 10891.916,
+    "chTo": 11081.916,
+    "length": 190.0,
+    "centreChainage": 10986.916
+  },
+  {
+    "station": "ILOK",
+    "line": "DN",
+    "oheMastFrom": "*12/06",
+    "oheMastTo": "*12/20",
+    "chFrom": 12099.615,
+    "chTo": 12284.615,
+    "length": 185.0,
+    "centreChainage": 12192.115
+  },
+  {
+    "station": "ILOK",
+    "line": "UP",
+    "oheMastFrom": "*12/05",
+    "oheMastTo": "*12/19",
+    "chFrom": 12099.615,
+    "chTo": 12284.615,
+    "length": 185.0,
+    "centreChainage": 12192.115
+  },
+  {
+    "station": "KN",
+    "line": "DN",
+    "oheMastFrom": "*13/16",
+    "oheMastTo": "*13/26",
+    "chFrom": 13231.3,
+    "chTo": 13416.3,
+    "length": 185.0,
+    "centreChainage": 13323.8
+  },
+  {
+    "station": "KN",
+    "line": "UP",
+    "oheMastFrom": "*13/15",
+    "oheMastTo": "*13/25",
+    "chFrom": 13231.3,
+    "chTo": 13416.3,
+    "length": 185.0,
+    "centreChainage": 13323.8
+  },
+  {
+    "station": "KP",
+    "line": "DN",
+    "oheMastFrom": "*13/68",
+    "oheMastTo": "*14/10",
+    "chFrom": 14004.27,
+    "chTo": 14189.27,
+    "length": 185.0,
+    "centreChainage": 14096.77
+  },
+  {
+    "station": "KP",
+    "line": "UP",
+    "oheMastFrom": "*13/67",
+    "oheMastTo": "*14/09",
+    "chFrom": 14004.27,
+    "chTo": 14189.27,
+    "length": 185.0,
+    "centreChainage": 14096.77
+  },
+  {
+    "station": "NSHP",
+    "line": "DN",
+    "oheMastFrom": "*15/36",
+    "oheMastTo": "*15/46",
+    "chFrom": 15460.572,
+    "chTo": 15650.572,
+    "length": 190.0,
+    "centreChainage": 15555.572
+  },
+  {
+    "station": "NSHP",
+    "line": "UP",
+    "oheMastFrom": "*15/35",
+    "oheMastTo": "*15/45",
+    "chFrom": 15460.572,
+    "chTo": 15650.572,
+    "length": 190.0,
+    "centreChainage": 15555.572
+  },
+  {
+    "station": "KE",
+    "line": "DN",
+    "oheMastFrom": "*16/54",
+    "oheMastTo": "*16/62",
+    "chFrom": 16748.903,
+    "chTo": 16933.903,
+    "length": 185.0,
+    "centreChainage": 16841.403
+  },
+  {
+    "station": "KE",
+    "line": "UP",
+    "oheMastFrom": "*16/53",
+    "oheMastTo": "*16/61",
+    "chFrom": 16748.903,
+    "chTo": 16933.903,
+    "length": 185.0,
+    "centreChainage": 16841.403
+  },
+  {
+    "station": "PTP",
+    "line": "DN",
+    "oheMastFrom": "*17/54",
+    "oheMastTo": "*17/66",
+    "chFrom": 17730.68,
+    "chTo": 17910.68,
+    "length": 180.0,
+    "centreChainage": 17820.68
+  },
+  {
+    "station": "PTP",
+    "line": "UP",
+    "oheMastFrom": "*17/53",
+    "oheMastTo": "*16/65",
+    "chFrom": 17730.68,
+    "chTo": 17910.68,
+    "length": 180.0,
+    "centreChainage": 17820.68
+  },
+  {
+    "station": "RHE",
+    "line": "DN",
+    "oheMastFrom": "*18/40",
+    "oheMastTo": "*18/50",
+    "chFrom": 18555.132,
+    "chTo": 18740.132,
+    "length": 185.0,
+    "centreChainage": 18647.632
+  },
+  {
+    "station": "RHE",
+    "line": "UP",
+    "oheMastFrom": "*18/39",
+    "oheMastTo": "*18/49",
+    "chFrom": 18555.132,
+    "chTo": 18740.132,
+    "length": 185.0,
+    "centreChainage": 18647.632
+  },
+  {
+    "station": "RHW",
+    "line": "DN",
+    "oheMastFrom": "*19/60",
+    "oheMastTo": "*20/02",
+    "chFrom": 19840.327,
+    "chTo": 20030.327,
+    "length": 190.0,
+    "centreChainage": 19935.327
+  },
+  {
+    "station": "RHW",
+    "line": "UP",
+    "oheMastFrom": "*19/59",
+    "oheMastTo": "*20/01",
+    "chFrom": 19840.327,
+    "chTo": 20030.327,
+    "length": 190.0,
+    "centreChainage": 19935.327
+  },
+  {
+    "station": "RI",
+    "line": "DN",
+    "oheMastFrom": "*20/66",
+    "oheMastTo": "*21/06",
+    "chFrom": 20591.354,
+    "chTo": 20781.354,
+    "length": 190.0,
+    "centreChainage": 20686.354
+  },
+  {
+    "station": "RI",
+    "line": "UP",
+    "oheMastFrom": "*20/65",
+    "oheMastTo": "*21/05",
+    "chFrom": 20591.354,
+    "chTo": 20781.354,
+    "length": 190.0,
+    "centreChainage": 20686.354
+  }
+]

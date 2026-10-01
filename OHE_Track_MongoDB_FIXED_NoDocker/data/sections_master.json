@@ -1,0 +1,152 @@
+[
+  {
+    "sectionFrom": "NBAA D/End",
+    "sectionTo": "NBAA",
+    "section": "NBAA D/End-NBAA"
+  },
+  {
+    "sectionFrom": "NBAA",
+    "sectionTo": "HDNR",
+    "section": "NBAA-HDNR"
+  },
+  {
+    "sectionFrom": "HDNR",
+    "sectionTo": "ATHA",
+    "section": "HDNR-ATHA"
+  },
+  {
+    "sectionFrom": "ATHA",
+    "sectionTo": "MNGN",
+    "section": "ATHA-MNGN"
+  },
+  {
+    "sectionFrom": "MNGN",
+    "sectionTo": "SMPK",
+    "section": "MNGN-SMPK"
+  },
+  {
+    "sectionFrom": "SMPK",
+    "sectionTo": "RJMN",
+    "section": "SMPK-RJMN"
+  },
+  {
+    "sectionFrom": "RJMN",
+    "sectionTo": "RJBH",
+    "section": "RJMN-RJBH"
+  },
+  {
+    "sectionFrom": "RJBH",
+    "sectionTo": "SHDN",
+    "section": "RJBH-SHDN"
+  },
+  {
+    "sectionFrom": "SHDN",
+    "sectionTo": "DSG",
+    "section": "SHDN-DSG"
+  },
+  {
+    "sectionFrom": "DSG",
+    "sectionTo": "JILMIL",
+    "section": "DSG-JILMIL"
+  },
+  {
+    "sectionFrom": "JILMIL",
+    "sectionTo": "MPK",
+    "section": "JILMIL-MPK"
+  },
+  {
+    "sectionFrom": "MPK",
+    "sectionTo": "SHD",
+    "section": "MPK-SHD"
+  },
+  {
+    "sectionFrom": "SHD",
+    "sectionTo": "WC",
+    "section": "SHD-WC"
+  },
+  {
+    "sectionFrom": "WC",
+    "sectionTo": "SLAP",
+    "section": "WC-SLAP"
+  },
+  {
+    "sectionFrom": "SLAP",
+    "sectionTo": "SHPK",
+    "section": "SLAP-SHPK"
+  },
+  {
+    "sectionFrom": "SHPK",
+    "sectionTo": "KG",
+    "section": "SHPK-KG"
+  },
+  {
+    "sectionFrom": "KG",
+    "sectionTo": "TZI",
+    "section": "KG-TZI"
+  },
+  {
+    "sectionFrom": "TZI",
+    "sectionTo": "PBGH",
+    "section": "TZI-PBGH"
+  },
+  {
+    "sectionFrom": "PBGH",
+    "sectionTo": "PRA",
+    "section": "PBGH-PRA"
+  },
+  {
+    "sectionFrom": "PRA",
+    "sectionTo": "SHT",
+    "section": "PRA-SHT"
+  },
+  {
+    "sectionFrom": "SHT",
+    "sectionTo": "ILOK",
+    "section": "SHT-ILOK"
+  },
+  {
+    "sectionFrom": "ILOK",
+    "sectionTo": "KN",
+    "section": "ILOK-KN"
+  },
+  {
+    "sectionFrom": "KN",
+    "sectionTo": "KP",
+    "section": "KN-KP"
+  },
+  {
+    "sectionFrom": "KP",
+    "sectionTo": "NSHP",
+    "section": "KP-NSHP"
+  },
+  {
+    "sectionFrom": "NSHP",
+    "sectionTo": "KE",
+    "section": "NSHP-KE"
+  },
+  {
+    "sectionFrom": "KE",
+    "sectionTo": "PTP",
+    "section": "KE-PTP"
+  },
+  {
+    "sectionFrom": "PTP",
+    "sectionTo": "RHE",
+    "section": "PTP-RHE"
+  },
+  {
+    "sectionFrom": "RHE",
+    "sectionTo": "RHW",
+    "section": "RHE-RHW"
+  },
+  {
+    "sectionFrom": "RHW",
+    "sectionTo": "RI",
+    "section": "RHW-RI"
+  },
+  {
+    "sectionFrom": "RI",
+    "sectionTo": "RI/End",
+    "section": "RI-RI/End"
+  }
+]

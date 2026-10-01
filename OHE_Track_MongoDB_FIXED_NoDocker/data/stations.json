@@ -1,0 +1,152 @@
+[
+  {
+    "name": "NBAA",
+    "ch": -12500.8,
+    "type": "station"
+  },
+  {
+    "name": "HDNR",
+    "ch": -11558.926,
+    "type": "station"
+  },
+  {
+    "name": "ATHA",
+    "ch": -10070.18,
+    "type": "station"
+  },
+  {
+    "name": "MNGN",
+    "ch": -9277.652,
+    "type": "station"
+  },
+  {
+    "name": "SMPK",
+    "ch": -7957.513,
+    "type": "station"
+  },
+  {
+    "name": "RJNM",
+    "ch": -6757.658,
+    "type": "station"
+  },
+  {
+    "name": "RJBH",
+    "ch": -5627.52,
+    "type": "station"
+  },
+  {
+    "name": "SHDN",
+    "ch": -4360.0,
+    "type": "station"
+  },
+  {
+    "name": "DSG",
+    "ch": -3131.477,
+    "type": "station"
+  },
+  {
+    "name": "JLML",
+    "ch": -2253.313,
+    "type": "station"
+  },
+  {
+    "name": "MPK",
+    "ch": -1125.808,
+    "type": "station"
+  },
+  {
+    "name": "SHD",
+    "ch": 0.0,
+    "type": "station"
+  },
+  {
+    "name": "WC",
+    "ch": 1192.17,
+    "type": "station"
+  },
+  {
+    "name": "SLAP",
+    "ch": 2281.95,
+    "type": "station"
+  },
+  {
+    "name": "SHPK",
+    "ch": 3954.26,
+    "type": "station"
+  },
+  {
+    "name": "KG",
+    "ch": 6290.589,
+    "type": "station"
+  },
+  {
+    "name": "TZI",
+    "ch": 7450.007,
+    "type": "station"
+  },
+  {
+    "name": "PBGH",
+    "ch": 8409.268,
+    "type": "station"
+  },
+  {
+    "name": "PRA",
+    "ch": 9248.326,
+    "type": "station"
+  },
+  {
+    "name": "SHT",
+    "ch": 10986.916,
+    "type": "station"
+  },
+  {
+    "name": "ILOK",
+    "ch": 12192.115,
+    "type": "station"
+  },
+  {
+    "name": "KN",
+    "ch": 13322.705,
+    "type": "station"
+  },
+  {
+    "name": "KP",
+    "ch": 14096.777,
+    "type": "station"
+  },
+  {
+    "name": "NSHP",
+    "ch": 15555.572,
+    "type": "station"
+  },
+  {
+    "name": "KE",
+    "ch": 16841.403,
+    "type": "station"
+  },
+  {
+    "name": "PTP",
+    "ch": 17820.6807,
+    "type": "station"
+  },
+  {
+    "name": "RHE",
+    "ch": 18631.0374,
+    "type": "station"
+  },
+  {
+    "name": "RHW",
+    "ch": 19935.3274,
+    "type": "station"
+  },
+  {
+    "name": "RI",
+    "ch": 20974.2304,
+    "type": "station"
+  },
+  {
+    "name": "DEAD END",
+    "ch": 21600.0,
+    "type": "deadend"
+  }
+]
