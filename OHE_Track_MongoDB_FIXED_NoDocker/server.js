@@ -70,7 +70,7 @@ async function readAllData(){
   const settings=await models.app_settings.find({}).lean();
   for(const s of settings) payload[s.key]=s.value;
   const v=await models.app_settings.findOne({key:"version"}).lean();
-  payload.gsheetUrl="https://redline-rust-sigma.vercel.app/api";
+  payload.gsheetUrl="/api";
   payload.gsheetToken="";
   payload._meta={version:v?.value||new Date().toISOString()};
   // Also provide the native DATA keys so the UI's existing applySheetPayload remains usable.
@@ -191,7 +191,7 @@ async function saveAll(payload){
   const meta=pick("meta","Meta");
   if(meta!==undefined) await models.app_settings.updateOne({key:"meta"},{$set:{value:meta}},{upsert:true});
 
-  await models.app_settings.updateOne({key:"gsheetUrl"},{$set:{value:"https://redline-rust-sigma.vercel.app/api"}},{upsert:true});
+  await models.app_settings.updateOne({key:"gsheetUrl"},{$set:{value:"/api"}},{upsert:true});
   await models.app_settings.updateOne({key:"version"},{$set:{value:new Date().toISOString()}},{upsert:true});
   return readAllData();
 }
